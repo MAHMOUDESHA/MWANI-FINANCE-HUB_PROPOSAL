@@ -1,0 +1,28 @@
+Mwani Finance Hub
+Project Overview
+Mwani Finance Hub is a digital platform designed to help farmer’s access fair market prices and connect directly with government-approved buyers, reducing exploitation by middlemen.
+
+ Objectives
+•	Provide transparent agricultural market pricing
+•	Connect farmers with official buyers
+•	Improve income stability for farmers
+
+Project Documentation
+
+•	Concept Note: docs/Concept_Note.pdf
+•	Proposal: docs/Proposal.pdf
+  
+Technologies (Planned)
+
+•	Backend: Spring Boot / Django
+•	Database: MySQL / PostgreSQL
+•	Frontend: React / HTML/CSS/JS
+  
+Author
+  
+•	Name: Esha Mahmoud
+•	Course: Application and Management of IT
+
+Status
+Project in planning phase (Documentation completed)
+
